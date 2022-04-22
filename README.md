@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Leonardo Borges
 
-- 🔭 Hoje sou estagiario de back-end
+- 🔭 Back-End
 - 🌱 Estudando Asp.Net 
 - 🗡️ RPG Team
 - 📖 Animes, Mangas e Livros!
