@@ -5,6 +5,14 @@
 - 🗡️ RPG Team
 - 📖 Animes, Mangas e Livros!
 
+## <br /> 🌎 Views:
+<br>
+
+<p align="center">
+  <img width="300" src="https://profile-counter.glitch.me/LeonardoSBorges/count.svg" />
+<p/>
+
+
 <a href="https://beacons.ai/LeonardoSBorges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSBorges&layout=compact&langs_count=16&theme=tokyonight"/>
