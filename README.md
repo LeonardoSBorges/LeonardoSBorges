@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Leonardo Borges
 
 - 🔭 Back-End
-- 🌱 Estudando Asp.Net 
-- 🗡️ RPG Team
+- 🌱 Sempre Estudando .Net
 - 📖 Animes, Mangas e Livros!
 
 ## <br /> 🌎 Views:
