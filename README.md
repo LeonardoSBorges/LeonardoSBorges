@@ -1,8 +1,10 @@
 ## Olá! Eu sou a Leonardo Borges
 
-- 🔭 Back-End
-- 🌱 Sempre Estudando .Net
-- 📖 Animes, Mangas e Livros!
+- 🔭 Back-End Developer
+- 🌱 Always studying .Net / Sempre Estudando .Net
+- 📖 I like read Books and Mangas/ Eu gosto de ler livros e mangas
+
+- Currently studying React / Atualmente estudando 
 
 ## <br /> 🌎 Views:
 <br>
